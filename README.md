@@ -1,1 +1,1 @@
-"# tiktactoe" 
+Simple command line tiktaktoe.
